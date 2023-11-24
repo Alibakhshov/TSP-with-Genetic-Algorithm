@@ -1,1 +1,1 @@
-# Genetic-Algorithm (TSP)
+# Solving Travel Salesman Problem (TSP) using Genetic Algorithm
