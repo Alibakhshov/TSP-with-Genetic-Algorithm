@@ -55,7 +55,7 @@ This desktop application is built with PySide6 to solve the Traveling Salesman P
 2. Navigate to the project directory:
 
     ```bash
-    cd your-repo
+    cd TSP-with-Genetic-Algorithm
     ```
 
 3. Install the required dependencies:
@@ -71,14 +71,11 @@ This desktop application is built with PySide6 to solve the Traveling Salesman P
     ```bash
     python main.py
     ```
+    
+2. Choose the matrix size and click on the "Ok" button to generate a random distance matrix.
+3. Input the matrix values and select the starting node.
+4. Click on the "Run" button to start the Genetic Algorithm.
 
-2. Input your TSP data through the graphical interface.
-
-3. Configure Genetic Algorithm parameters if desired.
-
-4. Click the "Run" button to start the optimization process.
-
-5. View the optimized route and statistics in the results section.
 
 ## Contributing
 
