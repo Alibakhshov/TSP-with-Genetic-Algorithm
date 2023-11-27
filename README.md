@@ -24,27 +24,32 @@ This desktop application is built with PySide6 to solve the Traveling Salesman P
 ## Screenshots
 
 ![Screenshot 1](screenshots/1.png)
-*Main window.*
 
 ![Screenshot 2](screenshots/2.png)
-*Caption for Screenshot 2.*
 
 ![Screenshot 3](screenshots/3.png)
-*Caption for Screenshot 3.*
+
 
 ## Installation
 
 ### Prerequisites
 
-- Python 3.x
-- PySide6
+- [Python 3.9](https://www.python.org/downloads/)
+- [pip](https://pip.pypa.io/en/stable/installing/)
+- [Git](https://git-scm.com/downloads)
+- [PySide6](https://pypi.org/project/PySide6/)
+- [Matplotlib](https://pypi.org/project/matplotlib/)
+- [NumPy](https://pypi.org/project/numpy/)
+- [Pandas](https://pypi.org/project/pandas/)
+- [PyQtGraph](https://pypi.org/project/pyqtgraph/)
+
 
 ### Steps
 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/Alibakhshov/TSP-with-Genetic-Algorithm
     ```
 
 2. Navigate to the project directory:
