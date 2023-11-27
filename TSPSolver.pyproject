@@ -1,0 +1,8 @@
+{
+    "files": [
+        "genetic_algorithm.py",
+        "result_window.py",
+        "tableinputwindow.py",
+        "tspsolver.py"
+    ]
+}
