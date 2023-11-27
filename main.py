@@ -1,7 +1,7 @@
 # This Python file uses the following encoding: utf-8
 import sys
 from PySide6.QtWidgets import QApplication, QMainWindow, QVBoxLayout, QWidget, QLabel, QComboBox, QPushButton, QHBoxLayout
-from tableinputwindow import TableInputWindow
+from core.tableinputwindow import TableInputWindow
 
 class TSPSolver(QMainWindow):
     def __init__(self, parent=None):

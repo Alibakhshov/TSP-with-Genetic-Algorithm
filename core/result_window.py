@@ -7,7 +7,7 @@ import numpy as np
 from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas
 from matplotlib.patches import FancyArrowPatch
 from matplotlib.figure import Figure
-from genetic_algorithm import run_genetic_algorithm
+from core.genetic_algorithm import run_genetic_algorithm
 
 class ResultWindow(QDialog):
     def __init__(self, tour, fitness, distance_matrix, parent=None):

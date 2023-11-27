@@ -23,11 +23,14 @@ This desktop application is built with PySide6 to solve the Traveling Salesman P
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-*Caption for Screenshot 1.*
+![Screenshot 1](screenshots/1.png)
+*Main window.*
 
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 2](screenshots/2.png)
 *Caption for Screenshot 2.*
+
+![Screenshot 3](screenshots/3.png)
+*Caption for Screenshot 3.*
 
 ## Installation
 

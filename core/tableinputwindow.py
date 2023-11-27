@@ -1,6 +1,6 @@
 from PySide6.QtWidgets import QMainWindow, QTableWidget, QTableWidgetItem, QPushButton, QComboBox, QVBoxLayout, QWidget, QHBoxLayout, QLabel, QMessageBox
-from genetic_algorithm import run_genetic_algorithm
-from result_window import ResultWindow
+from core.genetic_algorithm import run_genetic_algorithm
+from core.result_window import ResultWindow
 
 class TableInputWindow(QMainWindow):
     def __init__(self, matrix_size, parent=None):
