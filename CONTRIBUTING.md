@@ -1,6 +1,6 @@
 # Contributing to Traveling Salesman Problem Solver
 
-First off, thank you for considering contributing to the Traveling Salesman Problem Solver. Contributions are essential to the success of this project, and we appreciate your time and effort.
+First of all, thank you for considering contributing to the Traveling Salesman Problem Solver. Contributions are essential to the success of this project, and we appreciate your time and effort.
 
 
 ## How Can I Contribute?
