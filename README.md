@@ -49,7 +49,7 @@ This desktop application is built with PySide6 to solve the Traveling Salesman P
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Alibakhshov/TSP-with-Genetic-Algorithm
+    git clone https://github.com/Alibakhshov/TSP-with-Genetic-Algorithm.git
     ```
 
 2. Navigate to the project directory:
